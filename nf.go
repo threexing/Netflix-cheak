@@ -14,7 +14,7 @@ const Netflix = "https://www.netflix.com/title/"
 // VerifyAreaAvailable - Check whether the area supports the NetFlix
 func VerifyAreaAvailable() {
 	status := GetResponse(80018499)
-	fmt.Println("** NetFlix 解锁检测小工具 By \033[1;36m@sjlleo\033[0m **")
+	fmt.Println("** NetFlix 解锁检测小工具 By \033[1;36m@threexing\033[0m **")
 	if status == -1{
 		fmt.Println("\033[0;33mNetFlix不在您测试的出口IP所在的地区提供服务，无法正常使用NF网站\033[0m")
 	} else if status == -2 {
