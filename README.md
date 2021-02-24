@@ -16,4 +16,4 @@ A script used to determine whether to watch native NetFlix movies / NetFlix可�
 
 ### 懒人一键运行包
 
-`wget https://github.com/sjlleo/netflix-verify/releases/download/1.0/nf-1.0-linux-amd64 && chmod +x nf-1.0-linux-amd64 && mv nf-1.0-linux-amd64 nf && clear && ./nf`
+`wget https://github.com/threexing/Netflix-cheak/releases/download/1.0/nf-1.0-linux-amd64 && chmod +x nf-1.0-linux-amd64 && mv nf-1.0-linux-amd64 nf && clear && ./nf`
